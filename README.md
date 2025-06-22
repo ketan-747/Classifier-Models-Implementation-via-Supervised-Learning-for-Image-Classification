@@ -1,0 +1,2 @@
+# Classifier-Models-Implementation-via-Supervised-Learning-for-Image-Classification
+ This repository focuses on implementing and comparing four different classifier models for image classification using supervised learning. The models are trained on the BloodMNIST dataset, which is a part of the MedMNIST dataset containing health-related image data designed to match the original MNIST dataset shape.
